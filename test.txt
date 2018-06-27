@@ -1,18 +1,8 @@
-﻿집작업05
-사무실작업05
+﻿#include <stdio.h>
+#include <io.h>
 
-집작업04
-사무실작업04
-
-집작업03
-사무실작업03
-
-집작업 02
-사무실작업 02
-
-사무실작업01
-사무실작업01
-
-집작업06
-
-집작업07
+void main()
+{
+    printf("Hello world! hoem01");
+    printf("Hello world! home01");
+}
