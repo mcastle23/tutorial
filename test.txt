@@ -3,4 +3,6 @@
 void main()
 {
     printf("Hello world! office01");
+
+    printf("저는 사무실입니다!");
 }
