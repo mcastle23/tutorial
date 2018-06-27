@@ -1,8 +1,9 @@
 ﻿#include <stdio.h>
+#include <io.h>
 
 void main()
 {
     printf("Hello world! office01");
-
+    printf("Hello world! home01");
     printf("저는 사무실입니다!");
 }
